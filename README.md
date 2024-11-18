@@ -25,6 +25,7 @@
 > Run python in docker
 > 
 > docker pull <image name>
+
 >E:\docker_tut>docker run --name pycontainer -it -d python
 2451cc3c068a40b1b2b6b1586aba8f2be7be3ce1ba942e541024aa1790806da5
 > E:\docker_tut>docker ps -a
