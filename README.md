@@ -48,5 +48,7 @@
 >
 > >>>
 >
+>docker inspect <container id> / <name>
 >
+>docker stop <container name>
 
